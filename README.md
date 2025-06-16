@@ -8,14 +8,14 @@ This project tackles the binary classification of weed species — **charlock** 
 ## 🔧 Tools & Libraries
 
 - Python
-- NumPy / OpenCV / sklearn
+- NumPy / OpenCV / Scikit-learn
 - Matplotlib
 
 
 ## 🚀 Workflow
 
 1. **Image Preprocessing**
-   - Resize, normalise, grayscale
+   - Resize, Normalize, Grayscale
    - Histogram equalisation, Edge dedection
 
 2. **Feature Extraction**
@@ -39,8 +39,6 @@ This project tackles the binary classification of weed species — **charlock** 
 | Logistic Regression  | 0.82%    
 | Gaussian Naive Bayes | 0.56%    
 | K Nearest Neighbours | 0.76%    
-
-
 
 
 ## 📷 Visual Samples
