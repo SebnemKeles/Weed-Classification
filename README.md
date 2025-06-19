@@ -2,6 +2,7 @@
 
 
 ## 🧠 Project Summary
+
 This project tackles the binary classification of weed species — **charlock** and **cleavers** — using classical image processing and machine learning techniques. It is based on a simplified version of the [Kaggle Plant Seedlings Classification Challenge](https://www.kaggle.com/competitions/plant-seedlings-classification).
 
 
@@ -43,7 +44,7 @@ This project tackles the binary classification of weed species — **charlock** 
 
 ## 📷 Visual Samples
 
-(![Confusion Matrix](https://github.com/user-attachments/assets/c5268f40-8b59-4926-8072-97e475665fd5))
+- Confusion Matrix
 
 
 ## 💡 Future Improvements
