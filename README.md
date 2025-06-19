@@ -36,9 +36,9 @@ This project tackles the binary classification of weed species — **charlock** 
 
 | Model                | Accuracy 
 |----------------------|----------
-| Logistic Regression  | 0.82%    
-| Gaussian Naive Bayes | 0.56%    
-| K Nearest Neighbours | 0.76%    
+| Logistic Regression  | 82%    
+| Gaussian Naive Bayes | 56%    
+| K Nearest Neighbours | 76%    
 
 
 ## 📷 Visual Samples
