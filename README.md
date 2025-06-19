@@ -1,4 +1,4 @@
-# 🌿 Weed Classification Using Image Processing
+# 🌿 Weed Classification
 
 
 ## 🧠 Project Summary
